@@ -1,0 +1,844 @@
+[11-Apr-2016 22:14:50 Europe/Belgrade] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1680 but version 1672 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Apr-2016 22:14:55 Europe/Belgrade] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1680 but version 1672 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[12-Apr-2016 00:31:29 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 14
+[12-Apr-2016 00:33:37 Europe/Belgrade] PHP Fatal error:  Call to undefined function base_url() in /home/privatn2/application/controllers/login_k.php on line 2
+[12-Apr-2016 00:34:02 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 14
+[12-Apr-2016 00:34:26 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 00:45:50 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 00:59:35 Europe/Belgrade] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/privatn2/application/controllers/registracija.php on line 14
+[12-Apr-2016 00:59:39 Europe/Belgrade] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/privatn2/application/controllers/registracija.php on line 14
+[12-Apr-2016 00:59:47 Europe/Belgrade] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/privatn2/application/controllers/registracija.php on line 14
+[12-Apr-2016 00:59:51 Europe/Belgrade] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/privatn2/application/controllers/pocetna.php on line 14
+[12-Apr-2016 01:01:09 Europe/Belgrade] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/privatn2/application/controllers/registracija.php on line 14
+[12-Apr-2016 01:01:19 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 01:01:40 Europe/Belgrade] PHP Fatal error:  Cannot redeclare __autoload() (previously declared in /home/privatn2/application/config/config.php:3) in /home/privatn2/application/config/config.php on line 21
+[12-Apr-2016 01:01:41 Europe/Belgrade] PHP Fatal error:  Cannot redeclare __autoload() (previously declared in /home/privatn2/application/config/config.php:3) in /home/privatn2/application/config/config.php on line 21
+[12-Apr-2016 01:02:03 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 01:02:16 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 01:07:54 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 01:08:14 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 17
+[12-Apr-2016 01:09:42 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 18
+[12-Apr-2016 01:12:59 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 18
+[12-Apr-2016 01:13:23 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 18
+[12-Apr-2016 01:13:27 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 18
+[12-Apr-2016 01:15:18 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 01:18:03 Europe/Belgrade] PHP Fatal error:  Class 'MY_Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 19:18:55 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 19:22:26 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 19:22:39 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 19:23:06 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 19:23:24 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '.' in /home/privatn2/application/config/config.php on line 6
+[12-Apr-2016 19:23:24 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '.' in /home/privatn2/application/config/config.php on line 6
+[12-Apr-2016 19:23:38 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 19:24:04 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 20:06:02 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 20:06:27 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 20:06:35 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 22:49:12 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 22:49:41 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 23:07:03 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 23:07:21 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 23:08:46 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 13
+[12-Apr-2016 23:09:29 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 14
+[12-Apr-2016 23:10:02 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 14
+[12-Apr-2016 23:12:08 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 14
+[12-Apr-2016 23:13:42 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 14
+[12-Apr-2016 23:14:00 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login_k.php on line 14
+[12-Apr-2016 23:16:49 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login.php on line 14
+[12-Apr-2016 23:17:41 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login.php on line 14
+[12-Apr-2016 23:17:44 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login.php on line 14
+[12-Apr-2016 23:17:44 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login.php on line 14
+[12-Apr-2016 23:17:44 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login.php on line 14
+[12-Apr-2016 23:18:11 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login.php on line 14
+[12-Apr-2016 23:20:08 Europe/Belgrade] PHP Fatal error:  Class 'User_controller' not found in /home/privatn2/application/controllers/korisnik/dashboard.php on line 14
+[12-Apr-2016 23:20:39 Europe/Belgrade] PHP Fatal error:  Class 'User_controller' not found in /home/privatn2/application/controllers/korisnik/dashboard.php on line 14
+[12-Apr-2016 23:20:48 Europe/Belgrade] PHP Fatal error:  Class 'User_controller' not found in /home/privatn2/application/controllers/korisnik/dashboard.php on line 14
+[12-Apr-2016 23:21:36 Europe/Belgrade] PHP Fatal error:  Class 'User_controller' not found in /home/privatn2/application/controllers/korisnik/dashboard.php on line 14
+[12-Apr-2016 23:22:12 Europe/Belgrade] PHP Fatal error:  Class 'User_controller' not found in /home/privatn2/application/controllers/korisnik/smestaji.php on line 14
+[12-Apr-2016 23:32:27 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/controllers/login.php on line 14
+[12-Apr-2016 23:33:03 Europe/Belgrade] PHP Fatal error:  Class 'Controller' not found in /home/privatn2/application/controllers/login.php on line 14
+[12-Apr-2016 23:34:23 Europe/Belgrade] PHP Fatal error:  Class 'Backend_controller' not found in /home/privatn2/application/libraries/Admin_Controller.php on line 16
+[14-Apr-2016 00:32:20 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/privatn2/application/controllers/registracija.php on line 119
+[14-Apr-2016 01:02:34 Europe/Belgrade] PHP Fatal error:  Call to a member function set_mailtype() on null in /home/privatn2/application/controllers/registracija.php on line 115
+[14-Apr-2016 01:08:55 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/registracija.php on line 135
+[14-Apr-2016 01:09:14 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/registracija.php on line 135
+[14-Apr-2016 01:09:45 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/registracija.php on line 136
+[14-Apr-2016 01:09:53 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/registracija.php on line 135
+[14-Apr-2016 01:10:35 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/registracija.php on line 132
+[14-Apr-2016 01:11:11 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/registracija.php on line 132
+[14-Apr-2016 01:11:59 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/registracija.php on line 132
+[14-Apr-2016 01:12:36 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privatn2/application/controllers/registracija.php on line 134
+[14-Apr-2016 20:55:09 Europe/Belgrade] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/privatn2/application/controllers/registracija.php on line 36
+[18-Apr-2016 20:57:31 Europe/Belgrade] PHP Parse error:  syntax error, unexpected ',' in /home/privatn2/application/controllers/korisnik/smestajne_jedinice.php on line 311
+[18-Apr-2016 21:29:16 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/korisnik/smestajne_jedinice.php on line 319
+[18-Apr-2016 21:29:57 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/korisnik/smestajne_jedinice.php on line 319
+[18-Apr-2016 21:31:06 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/controllers/korisnik/smestajne_jedinice.php on line 319
+[18-Apr-2016 22:24:41 Europe/Belgrade] PHP Fatal error:  Using $this when not in object context in /home/privatn2/application/helpers/cms_helper.php on line 33
+[18-Apr-2016 22:25:09 Europe/Belgrade] PHP Fatal error:  Call to undefined function var_dumo() in /home/privatn2/application/helpers/cms_helper.php on line 33
+[18-Apr-2016 22:25:14 Europe/Belgrade] PHP Fatal error:  Call to undefined function var_dumo() in /home/privatn2/application/helpers/cms_helper.php on line 33
+[21-Apr-2016 21:13:34 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 65
+[21-Apr-2016 21:14:54 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 65
+[21-Apr-2016 21:15:07 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 65
+[21-Apr-2016 21:17:10 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 65
+[21-Apr-2016 21:20:39 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'Facebook\autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 24
+[21-Apr-2016 21:20:50 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'Facebook\autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 24
+[21-Apr-2016 21:20:58 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:15 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:21 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:26 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:26 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:38 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:44 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:46 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:46 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:21:47 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:23:10 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:24:43 Europe/Belgrade] PHP Fatal error:  Undefined constant 'Facebook\FacebookSession' in /home/privatn2/application/libraries/Facebook.php on line 28
+[21-Apr-2016 21:26:44 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:27:10 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:27:12 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:27:12 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:27:13 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:27:13 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:35:08 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:37:03 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:37:22 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 29
+[21-Apr-2016 21:38:01 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 29
+[21-Apr-2016 21:38:14 Europe/Belgrade] PHP Fatal error:  Class 'FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 68
+[21-Apr-2016 21:39:34 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 29
+[21-Apr-2016 21:39:48 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 29
+[21-Apr-2016 21:39:57 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 29
+[21-Apr-2016 21:40:25 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 29
+[21-Apr-2016 21:44:34 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'FacebookFacebookSession' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 30
+[21-Apr-2016 21:45:23 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'FacebookFacebookSession' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 30
+[21-Apr-2016 21:45:46 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required '/home/privatn2/application/librariesFacebook/FacebookSession' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 30
+[21-Apr-2016 21:45:58 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required '/home/privatn2/application/librariesFacebook/FacebookSession' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 30
+[21-Apr-2016 21:46:08 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required '/home/privatn2/application/librariesFacebook/FacebookSession' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 30
+[21-Apr-2016 21:46:19 Europe/Belgrade] PHP Fatal error:  Class 'FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 71
+[21-Apr-2016 21:46:49 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:50:08 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:51:15 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:57:10 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:57:26 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:58:17 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:58:32 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 21:59:06 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 22:37:41 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookRedirectLoginHelper' not found in /home/privatn2/application/libraries/Facebook.php on line 86
+[21-Apr-2016 22:38:09 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookRedirectLoginHelper' not found in /home/privatn2/application/libraries/Facebook.php on line 86
+[21-Apr-2016 22:44:18 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 22:44:24 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 69
+[21-Apr-2016 22:48:01 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'Session not active, could not store state.' in /home/privatn2/application/libraries/Facebook/FacebookRedirectLoginHelper.php:254
+Stack trace:
+#0 /home/privatn2/application/libraries/Facebook/FacebookRedirectLoginHelper.php(97): Facebook\FacebookRedirectLoginHelper->storeState('0f102f9f680f160...')
+#1 /home/privatn2/application/libraries/Facebook.php(136): Facebook\FacebookRedirectLoginHelper->getLoginUrl(Array)
+#2 /home/privatn2/application/views/examples/web.php(79): Facebook->login_url()
+#3 /home/privatn2/system/core/Loader.php(833): include('/home/privatn2/...')
+#4 /home/privatn2/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/privatn2/application/controllers/mika.php(37): CI_Loader->view('examples/web', Array)
+#6 [internal function]: mika->web_login()
+#7 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#8 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#9 {main in /home/privatn2/application/libraries/Facebook/FacebookRedirectLoginHelper.php on line 254
+[26-Apr-2016 17:46:42 Europe/Belgrade] PHP Warning:  Unterminated comment starting line 74 in /home/privatn2/public_html/index.php on line 74
+[27-Apr-2016 18:51:17 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[28-Apr-2016 01:20:04 Europe/Belgrade] PHP Fatal error:  Call to a member function row() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[28-Apr-2016 01:24:32 Europe/Belgrade] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/privatn2/application/helpers/cms_helper.php on line 48
+[28-Apr-2016 01:24:48 Europe/Belgrade] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/privatn2/application/helpers/cms_helper.php on line 48
+[28-Apr-2016 01:27:52 Europe/Belgrade] PHP Fatal error:  Call to a member function row() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[28-Apr-2016 01:28:07 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:08 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:08 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:08 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:09 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:09 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:09 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:10 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:10 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:10 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:10 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:11 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:11 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:11 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:12 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:12 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:12 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:13 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:13 Europe/Belgrade] PHP Fatal error:  Call to undefined function translate() in /home/privatn2/application/controllers/pocetna.php on line 186
+[28-Apr-2016 01:28:13 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:14 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:14 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:28:14 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/privatn2/application/helpers/cms_helper.php on line 17
+[28-Apr-2016 01:30:56 Europe/Belgrade] PHP Fatal error:  Call to a member function row() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[29-Apr-2016 10:16:26 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 10:16:26 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 10:16:26 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 12:07:12 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[29-Apr-2016 18:49:32 Europe/Belgrade] PHP Fatal error:  Call to a member function row() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[06-May-2016 23:42:35 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getRedirectLoginHelper() in /home/privatn2/application/controllers/pocetna.php on line 300
+[06-May-2016 23:43:10 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getLoginUrl() in /home/privatn2/application/controllers/pocetna.php on line 300
+[06-May-2016 23:43:14 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getLoginUrl() in /home/privatn2/application/controllers/pocetna.php on line 300
+[06-May-2016 23:43:14 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getLoginUrl() in /home/privatn2/application/controllers/pocetna.php on line 300
+[06-May-2016 23:43:14 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getLoginUrl() in /home/privatn2/application/controllers/pocetna.php on line 300
+[06-May-2016 23:48:28 Europe/Belgrade] PHP Fatal error:  Call to private method Facebook::get_new_session() from context 'pocetna' in /home/privatn2/application/controllers/pocetna.php on line 299
+[06-May-2016 23:48:45 Europe/Belgrade] PHP Fatal error:  Call to private method Facebook::get_new_session() from context 'pocetna' in /home/privatn2/application/controllers/pocetna.php on line 299
+[07-May-2016 18:42:08 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:42:52 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:43:01 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:43:09 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:43:14 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:43:16 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:43:17 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:43:18 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:43:33 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:44:03 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:44:12 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:44:31 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:46:02 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:46:15 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:46:59 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 18:47:25 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:49:58 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:50:01 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:50:13 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:50:25 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:52:15 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:52:53 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:53:14 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:53:17 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:54:53 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:55:19 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 19:58:42 Europe/Belgrade] CSRF state token does not match one provided.
+[07-May-2016 22:51:51 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/ytnMOsCUUSsFX...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/ytnMOsCUUSsFX...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/ytnMOsCUUSsFX...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:51:51 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/ytnMOsCUUSsFX...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/ytnMOsCUUSsFX...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/ytnMOsCUUSsFX...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:51:51 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/ytnMOsCUUSsFX...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/ytnMOsCUUSsFX...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/ytnMOsCUUSsFX...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:51:51 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/ytnMOsCUUSsFX...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/ytnMOsCUUSsFX...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/ytnMOsCUUSsFX...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:55:19 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:55:19 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:55:19 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:55:19 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:55:20 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:56:18 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:56:20 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:56:21 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:56:21 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:56:21 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:57:44 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 22:59:58 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:00:11 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(34): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:14:12 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_request'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/6XjwgnZ_wHv2F...')
+#1 /home/privatn2/application/libraries/Googleplus.php(34): Google_Client->authenticate('4/6XjwgnZ_wHv2F...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/6XjwgnZ_wHv2F...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:16:15 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/CmZjUc1_treAO...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/CmZjUc1_treAO...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/CmZjUc1_treAO...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:16:52 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/CmZjUc1_treAO...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/CmZjUc1_treAO...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/CmZjUc1_treAO...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:16:54 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/CmZjUc1_treAO...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/CmZjUc1_treAO...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/CmZjUc1_treAO...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:16:55 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/CmZjUc1_treAO...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/CmZjUc1_treAO...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/CmZjUc1_treAO...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:16:55 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/CmZjUc1_treAO...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/CmZjUc1_treAO...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/CmZjUc1_treAO...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:16:55 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/CmZjUc1_treAO...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/CmZjUc1_treAO...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/CmZjUc1_treAO...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:17:20 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/voASni0gjtKfr...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/voASni0gjtKfr...')
+#2 /home/privatn2/application/controllers/example.php(34): Googleplus->get_user('4/voASni0gjtKfr...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:20:08 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, NULL)
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate(NULL)
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user(NULL)
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[07-May-2016 23:21:02 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/mP9GlCva6kg2p...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/mP9GlCva6kg2p...')
+#2 /home/privatn2/application/controllers/example.php(32): Googleplus->get_user('4/mP9GlCva6kg2p...')
+#3 [internal function]: example->loging()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[08-May-2016 23:06:13 Europe/Belgrade] CSRF state token does not match one provided.
+[08-May-2016 23:07:16 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:05:10 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:08:14 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:08:49 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:09:59 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:10:01 Europe/Belgrade] PHP Fatal error:  Call to a member function unset_userdata() on null in /home/privatn2/application/controllers/example.php on line 77
+[09-May-2016 19:10:58 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:12:32 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:13:25 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:13:40 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:14:33 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:16:10 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:16:17 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:18:30 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:18:41 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:20:09 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:20:18 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:22:17 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:22:24 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:22:29 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:22:35 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:23:01 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:23:07 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 19:44:03 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 20:15:40 Europe/Belgrade] PHP Fatal error:  Call to a member function get_user() on null in /home/privatn2/application/controllers/login.php on line 40
+[09-May-2016 20:16:19 Europe/Belgrade] PHP Fatal error:  Call to a member function get_user() on null in /home/privatn2/application/controllers/login.php on line 40
+[09-May-2016 20:16:35 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/%2Fprofile?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('/profile')
+#4 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/pdk4Pi8AZW5HT...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2 in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 20:16:40 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/%2Fprofile?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('/profile')
+#4 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/JMJ_J97COCHxd...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2 in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 20:16:50 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/%2Fprofile?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('/profile')
+#4 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/l0mzlg_oE-dJG...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2 in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 20:17:19 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/%2Fprofile?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('/profile')
+#4 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/0-juE_D3OELiJ...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2 in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 20:18:40 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/%2Fprofile?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('/profile')
+#4 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/lAlY-sfohTtUC...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2 in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 20:21:35 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/%2Fme%3Ffields%3Demail?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('/me?fields=emai...')
+#4 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/LQzRf1tWJF5na...')
+#5 [internal function]: login->google_log in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 20:21:51 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/%2Fme?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('/me')
+#4 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/beOhfDx3r6xPL...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2/system/co in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 20:22:12 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/%2Fme?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('/me')
+#4 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/B899H9UwpNDUF...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2/system/co in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 20:33:26 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/5uq4Xw4VxI2GH...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/5uq4Xw4VxI2GH...')
+#2 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/5uq4Xw4VxI2GH...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 20:36:22 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/-WldC69YQZQgC...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/-WldC69YQZQgC...')
+#2 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/-WldC69YQZQgC...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 20:37:58 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/bhjjuZzjBGmiN...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/bhjjuZzjBGmiN...')
+#2 /home/privatn2/application/controllers/login.php(44): Googleplus->get_user('4/bhjjuZzjBGmiN...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 20:40:36 Europe/Belgrade] PHP Fatal error:  Call to a member function getEmails() on null in /home/privatn2/application/controllers/login.php on line 44
+[09-May-2016 20:40:53 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/Rqz2XyHBoFDyd...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/Rqz2XyHBoFDyd...')
+#2 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/Rqz2XyHBoFDyd...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 20:40:59 Europe/Belgrade] PHP Fatal error:  Call to a member function getEmails() on array in /home/privatn2/application/controllers/login.php on line 44
+[09-May-2016 20:44:24 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/TmAiOojgaJFVz...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/TmAiOojgaJFVz...')
+#2 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/TmAiOojgaJFVz...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 20:44:31 Europe/Belgrade] PHP Fatal error:  Call to a member function getEmails() on array in /home/privatn2/application/libraries/Googleplus.php on line 39
+[09-May-2016 20:48:42 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/G4DbhAAETIrea...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/G4DbhAAETIrea...')
+#2 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/G4DbhAAETIrea...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 20:48:49 Europe/Belgrade] PHP Fatal error:  Call to undefined method Google_PlusService::userinfo() in /home/privatn2/application/libraries/Googleplus.php on line 39
+[09-May-2016 20:50:56 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/rxjclLUcky_V3...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/rxjclLUcky_V3...')
+#2 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/rxjclLUcky_V3...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 20:51:03 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/userinfo?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('userinfo')
+#4 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/zdBKa9UdMBcU4...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2/s in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 21:00:36 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_Exception' with message '(get) missing required param: 'userId'' in /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php:116
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#1 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get()
+#2 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/VBqw7zp3vBUUo...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php on line 116
+[09-May-2016 21:01:07 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_ServiceException' with message 'Error calling GET https://www.googleapis.com/plus/v1/people/userinfo?key=AIzaSyA3Xp7YeG5JS-dMBag0SQuzC0tH7MoaNOk: (404) Not Found' in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php:66
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php(36): Google_REST::decodeHttpResponse(Object(Google_HttpRequest))
+#1 /home/privatn2/application/third_party/google-api-php-client/src/service/Google_ServiceResource.php(177): Google_REST::execute(Object(Google_HttpRequest))
+#2 /home/privatn2/application/third_party/google-api-php-client/src/contrib/Google_PlusService.php(205): Google_ServiceResource->__call('get', Array)
+#3 /home/privatn2/application/libraries/Googleplus.php(38): Google_PeopleServiceResource->get('userinfo')
+#4 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/nON0lzmxv_rS3...')
+#5 [internal function]: login->google_login()
+#6 /home/privatn2/s in /home/privatn2/application/third_party/google-api-php-client/src/io/Google_REST.php on line 66
+[09-May-2016 21:16:57 Europe/Belgrade] PHP Fatal error:  Call to a member function getEmails() on array in /home/privatn2/application/controllers/login.php on line 44
+[09-May-2016 21:17:16 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/c2GFefT33D-QF...')
+#1 /home/privatn2/application/libraries/Googleplus.php(33): Google_Client->authenticate('4/c2GFefT33D-QF...')
+#2 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/c2GFefT33D-QF...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 21:47:37 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home/privatn2/application/third_party/google-api-php-client/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, '4/gIgbgzJRF5dIn...')
+#1 /home/privatn2/application/libraries/Googleplus.php(36): Google_Client->authenticate('4/gIgbgzJRF5dIn...')
+#2 /home/privatn2/application/controllers/login.php(43): Googleplus->get_user('4/gIgbgzJRF5dIn...')
+#3 [internal function]: login->google_login()
+#4 /home/privatn2/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/privatn2/public_html/index.php(215): require_once('/home/privatn2/...')
+#6 {main}
+  thrown in /home/privatn2/application/third_party/google-api-php-client/src/auth/Google_OAuth2.php on line 113
+[09-May-2016 22:21:45 Europe/Belgrade] PHP Fatal error:  Call to a member function get_name() on null in /home/privatn2/application/third_party/OAuth.php on line 453
+[09-May-2016 23:45:20 Europe/Belgrade] CSRF state token does not match one provided.
+[09-May-2016 23:45:33 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:25:05 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:25:13 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:26:44 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:31:03 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:42:01 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:42:20 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:44:15 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:45:08 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:45:37 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:55:18 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:55:31 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:56:21 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:58:11 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:58:39 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:59:00 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:59:02 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 17:59:53 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 18:30:54 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 19:01:00 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 19:31:06 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 19:58:32 Europe/Belgrade] CSRF state token does not match one provided.
+[10-May-2016 23:39:59 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 66
+[10-May-2016 23:41:10 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 66
+[10-May-2016 23:41:11 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 66
+[10-May-2016 23:41:11 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 66
+[10-May-2016 23:41:11 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 66
+[10-May-2016 23:41:11 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 66
+[10-May-2016 23:41:14 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 66
+[10-May-2016 23:41:22 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/privatn2/application/libraries/Facebook.php on line 66
+[11-May-2016 01:24:18 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/libraries/Facebook/FacebookJavaScriptLoginHelper.php on line 33
+[11-May-2016 01:24:18 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/libraries/Facebook/FacebookJavaScriptLoginHelper.php on line 33
+[11-May-2016 01:26:56 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required '../application/libraries/Facebook/FacebookSession.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/libraries/Facebook.php on line 23
+[11-May-2016 01:28:02 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookJavaScriptLoginHelper.php on line 33
+[11-May-2016 01:28:19 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookJavaScriptLoginHelper.php on line 33
+[11-May-2016 01:28:29 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookCanvasLoginHelper.php on line 33
+[11-May-2016 01:28:33 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookCanvasLoginHelper.php on line 33
+[11-May-2016 01:28:35 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookCanvasLoginHelper.php on line 33
+[11-May-2016 01:28:35 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookCanvasLoginHelper.php on line 33
+[11-May-2016 01:28:36 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookCanvasLoginHelper.php on line 33
+[11-May-2016 01:28:36 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookCanvasLoginHelper.php on line 33
+[11-May-2016 01:28:36 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookCanvasLoginHelper.php on line 33
+[11-May-2016 01:28:44 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home/privatn2/application/third_party/Facebook/FacebookCanvasLoginHelper.php on line 33
+[11-May-2016 01:29:35 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home/privatn2/application/third_party/Facebook/FacebookSession.php on line 74
+[11-May-2016 01:30:32 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home/privatn2/application/third_party/Facebook/FacebookSession.php on line 74
+[11-May-2016 01:30:52 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home/privatn2/application/third_party/Facebook/FacebookSession.php on line 74
+[11-May-2016 01:31:01 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home/privatn2/application/third_party/Facebook/FacebookSession.php on line 74
+[11-May-2016 01:31:56 Europe/Belgrade] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home/privatn2/application/third_party/Facebook/FacebookSession.php on line 74
+[11-May-2016 01:34:42 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required 'APPATH/third_party/Facebook/Entities/AccessToken.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/privatn2/application/third_party/Facebook/FacebookSession.php on line 26
+[11-May-2016 01:50:13 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getLocation() in /home/privatn2/application/controllers/pocetna.php on line 382
+[11-May-2016 01:52:41 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getLocation() in /home/privatn2/application/controllers/pocetna.php on line 382
+[11-May-2016 01:53:02 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getLocation() in /home/privatn2/application/controllers/pocetna.php on line 382
+[11-May-2016 01:53:10 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::getLocation() in /home/privatn2/application/controllers/pocetna.php on line 382
+[11-May-2016 01:53:24 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 237
+[11-May-2016 01:54:28 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 237
+[11-May-2016 01:54:45 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 239
+[11-May-2016 01:54:56 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 239
+[11-May-2016 01:54:59 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 239
+[11-May-2016 01:55:03 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 239
+[11-May-2016 01:55:15 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 239
+[11-May-2016 01:55:19 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 239
+[11-May-2016 01:55:37 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 239
+[11-May-2016 01:55:54 Europe/Belgrade] PHP Fatal error:  Call to a member function getLocation() on null in /home/privatn2/application/libraries/Facebook.php on line 239
+[11-May-2016 02:12:28 Europe/Belgrade] PHP Fatal error:  Call to undefined method Facebook::destroySession() in /home/privatn2/application/controllers/login.php on line 127
+[11-May-2016 10:59:43 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:00:49 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:00:53 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:00:56 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:01:00 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:01:03 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:01:07 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:01:11 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:01:14 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:01:18 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:01:22 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:01:25 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 116
+[11-May-2016 11:02:05 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 117
+[11-May-2016 11:06:37 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/models/korisnik_m.php on line 115
+[11-May-2016 11:25:44 Europe/Belgrade] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privatn2/application/models/korisnik_m.php on line 114
+[13-May-2016 00:06:18 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/privatn2/public_html/index.php on line 55
+[13-May-2016 00:06:18 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/privatn2/public_html/index.php on line 55
+[25-May-2016 14:25:07 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:28:33 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:29:19 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:25 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:31 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:35 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:35 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:35 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:36 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:36 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:36 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:37 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:37 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:30:37 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:31:07 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:32:26 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:32:39 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:32:46 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:33:10 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:33:19 Europe/Belgrade] PHP Fatal error:  Call to a member function result() on boolean in /home/privatn2/application/core/MY_Model.php on line 43
+[25-May-2016 14:33:42 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:48 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:48 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:48 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:48 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:49 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:49 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:49 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:49 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[25-May-2016 14:33:49 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privatn2/application/controllers/pocetna.php on line 417
+[17-Jun-2016 21:39:28 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 21:39:28 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 22:05:27 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 22:05:27 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 22:05:27 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 22:05:27 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 22:05:27 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 22:05:27 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 22:05:27 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Jun-2016 23:17:47 Europe/Belgrade] PHP Fatal error:  Class 'Admin_controller' not found in /home/privatn2/application/controllers/admin/dozvole.php on line 14
+[17-Jun-2016 23:17:48 Europe/Belgrade] PHP Fatal error:  Class 'Admin_controller' not found in /home/privatn2/application/controllers/admin/dozvole.php on line 14
+[01-Jul-2016 21:06:13 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/views/backend/components/_page_sidebar.php on line 17
+[01-Jul-2016 21:07:38 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/views/backend/components/_page_sidebar.php on line 17
+[01-Jul-2016 21:09:45 Europe/Belgrade] PHP Fatal error:  Call to a member function get_by() on null in /home/privatn2/application/views/backend/components/_page_sidebar.php on line 17
+[09-Nov-2016 21:30:57 Europe/Belgrade] PHP Fatal error:  Call to undefined function make_new_file() in /home/privatn2/application/views/frontend/components2/_page_header.php on line 63
+[10-Jan-2017 18:56:31 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[10-Jan-2017 18:56:31 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[10-Jan-2017 18:56:31 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[10-Jan-2017 18:56:31 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[10-Jan-2017 18:56:31 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[10-Jan-2017 18:56:31 Europe/Belgrade] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0

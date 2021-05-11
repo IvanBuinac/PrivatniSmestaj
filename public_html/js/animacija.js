@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".focus").hide(),$(".share").hide(),$(".aparat").click(function(){$("body").scrollTo(300,1e3),$(".focus").fadeIn(2e3).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100),setTimeout(function(){$(".focus").fadeOut("fast")},1700),setTimeout(function(){$(".share").fadeIn("fast")},3500)})});

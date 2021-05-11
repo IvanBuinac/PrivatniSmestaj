@@ -1,0 +1,13 @@
+Buyer
+ivan.buinac.182.11-buyer@ict.edu.rs
+buinac1992
+
+Seller
+zika@gmail.com
+zika1234
+Username:
+zika_api2.gmail.com
+Password:
+WVVQRRS4MLXA59TM
+Signature:
+AFcWxV21C7fd0v3bYYYRCpSSRl31AteIpwjLe9.3ZBgTY-Es6yhbG2Hc
